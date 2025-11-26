@@ -1,0 +1,7 @@
+{
+  "name": "Hobq Desert AOD 3D Visualizer",
+  "description": "Interactive 3D Earth system visualizing AOD trends and PV stations in the Hobq Desert with hand-gesture controls.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
